@@ -1,0 +1,78 @@
+
+
+.banner{
+  max-width:100%;
+    }
+
+.carousel-caption{
+        background-color: #282828;
+        opacity: 0.75;
+  }
+  @media(max-width: 768px){
+    h1{
+      font-size: 14px;
+
+  }
+}
+.title{
+  color:teal;
+  font-size: 45px;
+  font-style: oblique;
+  font-stretch: normal;
+}
+#random {
+    font-style: italic;
+    color:purple;
+    border: 15px solid gold;
+    margin: 5px;
+body {
+  color:silver;
+
+}
+
+#content{
+    color:blue;
+}
+
+.text{
+  color:silver;
+  font-style: italic;
+  text-shadow: 2px 2px #ff0000;
+}
+h1{
+  color:silver;
+  font-style: italic;
+  text-shadow: 2px 2px #ff0000;
+}
+h3{
+  color:silver;
+  font-style: italic;
+  text-shadow: 2px 2px #ff0000;
+}
+
+.textalign{
+  text-align:center;
+  color:silver;
+  text-decoration-style: solid;
+}
+
+.img {
+
+  padding:1px;
+  border:1px
+  solid #021a40;
+}
+
+#nobullet {
+    list-style-type: none;
+}
+@media screen and (min-width: 480px) {
+    div {
+        float: left;
+        background: red;
+    }
+
+  #rock {
+    color:red;
+    font-family: sans-serif;
+  }
